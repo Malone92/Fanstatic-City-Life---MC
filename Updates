@@ -17,3 +17,7 @@
 - Added Online Players to Staff List. (Malone 2/5/2020)
 - Adding Staff Panel for muting and handle server stuffs. (FCL Team 2/5/2020)
 - Added Health Bar above animals/monsters head. (Malone 2/5/2020)
+- Added Fake Name system to change your name /fake NewName <New Name>. (Malone 2/5/2020)
+- Fixed when a new player joined the server he will get kicked directly for flying due to an spawn point issue. (Malone + Phobia 2/5/2020)
+- Added Death Messages Prime. (Malone 2/6/2020)
+- FCL are now supporting skript. (Malone 2/6/2020)

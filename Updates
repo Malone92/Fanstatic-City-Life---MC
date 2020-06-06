@@ -15,3 +15,5 @@
 - Added chair system. (Malone - 4/6/2020)
 - Added /rules to view general server rules. (Malone & Moxie - 5/6/2020)
 - Do /msg PlayerName Text, to contact your friends. (Malone - 5/6/2020)
+- Added punishment system, to mute, ban, jail players. (Moxie - 6/6/2020)
+- Now operators able to refund players items when they die (full items). (Malone - 6/6/2020)
